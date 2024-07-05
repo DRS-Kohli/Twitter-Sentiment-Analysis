@@ -9,3 +9,5 @@ Tech Stack:
   - tfidvectorizer
     
 The model used is LogisticRegression
+
+Dataset Used: https://www.kaggle.com/datasets/kazanova/sentiment140
