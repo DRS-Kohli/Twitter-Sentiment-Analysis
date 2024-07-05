@@ -6,4 +6,5 @@ Tech Stack:
   - nltk
   - sci-kit learn
   - tfidvectorizer
-Model used is LogisticRegression
+    
+The model used is LogisticRegression
